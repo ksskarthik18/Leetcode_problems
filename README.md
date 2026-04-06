@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0179-largest-number) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0179-largest-number) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0179-largest-number) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1051-height-checker) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
