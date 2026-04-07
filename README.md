@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1089-duplicate-zeros) |
+| [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0179-largest-number) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Hash Table
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
