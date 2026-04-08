@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        n=len(nums)
+        '''n=len(nums)
         new_sorted = sorted(nums)
         def reverse_array(temp,start,end):
             while start < end:
@@ -19,7 +19,16 @@ class Solution(object):
             if temp == new_sorted :
                 return True
         
-        return False
+        return False'''
+
+        n=len(nums)
+        count=0
+
+        for i in range(n):
+            if nums[i] > nums[(i+1)%n] :
+                count+=1
+        
+        return count <= 1
 
 
         
