@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0035-search-insert-position) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0179-largest-number) |
 ## Dynamic Programming
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
