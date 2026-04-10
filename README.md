@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0189-rotate-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0179-largest-number) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1051-height-checker) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0189-rotate-array) |
 | [1089-duplicate-zeros](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1089-duplicate-zeros) |
