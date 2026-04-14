@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0179-largest-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0169-majority-element) |
 | [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
 ## Trie
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ksskarthik18/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
