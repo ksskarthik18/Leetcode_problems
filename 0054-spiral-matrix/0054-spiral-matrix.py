@@ -12,20 +12,22 @@ class Solution(object):
         bottom=n-1
         res=[]
         while left<=right and top <= bottom:
-            #right
+            #left->right
             for i in range(left,right+1,1):
                 res.append(matrix[top][i])
             top+=1
 
-
+            #right->bottom
             for i in range(top,bottom+1,1):
                 res.append(matrix[i][right])
             right-=1
 
+            #bottom->left
             if top<=bottom:
                 for i in range(right,left-1,-1):
                     res.append(matrix[bottom][i])
                 bottom-=1
+            #left ->top
             if left <= right:
                 for i in range(bottom,top-1,-1):
                     res.append(matrix[i][left])
