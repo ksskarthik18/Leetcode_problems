@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
 ## Counting Sort
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0169-majority-element) |
 | [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
