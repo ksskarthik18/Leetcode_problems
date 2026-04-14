@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
 ## Trie
 |  |
