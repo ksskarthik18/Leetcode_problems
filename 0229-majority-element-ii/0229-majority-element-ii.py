@@ -31,7 +31,7 @@ class Solution(object):
                 cnt1+=1
             if element2==nums[i]:
                 cnt2+=1
-        mini = (n/3)+1
+        mini = (n//3)+1
         if cnt1>= mini:
             result.append(element1)
         if cnt2>=mini:
