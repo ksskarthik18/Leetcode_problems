@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0704-binary-search) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0268-missing-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Math
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0509-fibonacci-number) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1037-valid-boomerang) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0268-missing-number) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
@@ -158,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
 ## Trie
