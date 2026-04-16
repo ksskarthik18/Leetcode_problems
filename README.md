@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ksskarthik18/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0229-majority-element-ii) |
 | [1051-height-checker](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Trie
 |  |
 | ------- |
