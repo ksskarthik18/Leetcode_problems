@@ -1,0 +1,31 @@
+class Solution(object):
+    def search(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: bool
+        """
+        n=len(nums)
+        low=0
+        high=n-1
+        while low<=high:
+            mid = (low + high)//2
+            if nums[mid] == target:
+                return True
+            if nums[low]==nums[mid] and nums[mid]==nums[high]:
+                low+=1
+                high-=1
+
+            elif nums[low]<= nums[mid]:
+                if nums[low] <= target < nums[mid]:
+                    high-=1
+                else:
+                    low+=1
+            else:
+                if nums[mid]< target <= nums[high]:
+                    low+=1
+                else:
+                    high-=1
+        
+        return False
+        
