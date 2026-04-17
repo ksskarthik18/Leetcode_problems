@@ -1,3 +1,5 @@
+#Time Compleixity : O(log n)
+
 class Solution(object):
     def searchRange(self, nums, target):
         """
@@ -5,7 +7,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
+        #
         fst=self.first(nums,target)
+        if fst==-1:
+            return [-1,-1]
         lst=self.last(nums,target)
         return [fst,lst]
 
