@@ -1,3 +1,5 @@
+#Time Complexity : O(log n base 2)
+
 class Solution(object):
     def findMin(self, nums):
         """
