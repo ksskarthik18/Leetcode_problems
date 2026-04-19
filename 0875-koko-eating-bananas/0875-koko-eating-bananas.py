@@ -1,3 +1,4 @@
+#Time Complexity : O(N) * O(log max_element base 2)
 import math
 class Solution(object):
     def minEatingSpeed(self, piles, h):
