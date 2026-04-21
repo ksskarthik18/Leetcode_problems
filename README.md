@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
