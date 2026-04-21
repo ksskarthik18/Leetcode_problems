@@ -1,3 +1,4 @@
+#Time Complexity : O(N X (max-min+1))
 class Solution(object):
     def minDays(self, bloomDay, m, k):
         """
