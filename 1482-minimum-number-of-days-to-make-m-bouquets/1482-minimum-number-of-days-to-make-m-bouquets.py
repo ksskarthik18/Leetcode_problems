@@ -7,37 +7,32 @@ class Solution(object):
         :rtype: int
         """
         n = len(bloomDay)
-
-    # impossible case
-        if m * k > n:
-            return -1
-
         low = min(bloomDay)
-        high = max(bloomDay)
-        ans = -1
-
-        while low <= high:
-            mid = (low + high) // 2
-
-            if self.can_make(bloomDay, m, k, mid):
+        high =max(bloomDay)
+        ans=-1
+        while low<=high:
+            mid = (low + high)//2
+            if (self.possible(bloomDay,mid,m,k)==True):
                 ans = mid
-                high = mid - 1   # try smaller day
+                high = mid - 1
             else:
-                low = mid + 1    # need more days
-
+                low = mid + 1
+        
         return ans
+    
 
-    def can_make(self,bloomDay, m, k, day):
-        bouquets = 0
-        count = 0
-
-        for bloom in bloomDay:
-            if bloom <= day:
-                count += 1
-                if count == k:
-                    bouquets += 1
-                    count = 0
+    def possible(self,bloomDay,mid,m,k):
+        cnt=0
+        n=len(bloomDay)
+        no_of_boquets=0
+        for i in range(n):
+            if bloomDay[i]<= mid:
+                cnt+=1
             else:
-                count = 0
-
-        return bouquets >= m        
+                no_of_boquets+=(cnt/k)
+                cnt=0
+        no_of_boquets += cnt/k
+        if no_of_boquets >= m:
+            return True
+        return False
+            
