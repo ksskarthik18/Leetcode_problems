@@ -1,3 +1,4 @@
+#Time Complexity : log(min(n1,n2) base 2)
 class Solution(object):
     def findMedianSortedArrays(self, nums1, nums2):
         """
