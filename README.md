@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0179-largest-number) |
+| [1021-remove-outermost-parentheses](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Dynamic Programming
 |  |
@@ -264,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
