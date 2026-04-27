@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -284,4 +288,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
