@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
 | ------- |
