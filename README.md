@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Trie
 |  |
 | ------- |
