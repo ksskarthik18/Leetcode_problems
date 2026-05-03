@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ksskarthik18/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -308,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
