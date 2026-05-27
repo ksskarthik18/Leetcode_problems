@@ -1,3 +1,4 @@
+#Time Complexity : O(2N)
 class StockSpanner(object):
 
     def __init__(self):
