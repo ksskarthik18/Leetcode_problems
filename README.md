@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0509-fibonacci-number) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1037-valid-boomerang) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0796-rotate-string) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ksskarthik18/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
