@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1901-find-a-peak-element-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
+| [1672-richest-customer-wealth](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1901-find-a-peak-element-ii) |
 ## Counting Sort
 |  |
