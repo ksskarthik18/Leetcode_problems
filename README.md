@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0509-fibonacci-number) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1037-valid-boomerang) |
