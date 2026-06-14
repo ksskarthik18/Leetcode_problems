@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/ksskarthik18/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ksskarthik18/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/ksskarthik18/Leetcode_problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 ## Greedy
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/ksskarthik18/Leetcode_problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 ## Geometry
 |  |
 | ------- |
@@ -487,4 +489,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/ksskarthik18/Leetcode_problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 <!---LeetCode Topics End-->
