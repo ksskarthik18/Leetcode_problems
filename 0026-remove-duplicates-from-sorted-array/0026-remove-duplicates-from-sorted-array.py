@@ -5,13 +5,15 @@ class Solution(object):
         :rtype: int
         """
         if not nums:
-            return 0
-        j = 0
+            return 
+        j=0
         for i in range(1,len(nums)):
             if nums[i]!=nums[j]:
                 j+=1
-                nums[j]=nums[i]
+                nums[j] = nums[i]
         return j+1
+            
+
 
 
         
