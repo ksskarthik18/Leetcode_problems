@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0547-number-of-provinces) |
 ## Design
 |  |
 | ------- |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0079-word-search) |
+| [0547-number-of-provinces](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0547-number-of-provinces) |
 ## Queue
 |  |
 | ------- |
@@ -493,4 +495,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/ksskarthik18/Leetcode_problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
