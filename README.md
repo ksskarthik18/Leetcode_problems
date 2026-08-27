@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0994-rotting-oranges) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1672-richest-customer-wealth](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1901-find-a-peak-element-ii) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
