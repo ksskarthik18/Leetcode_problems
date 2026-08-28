@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0079-word-search) |
+| [0207-course-schedule](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0733-flood-fill) |
 ## Queue
@@ -503,11 +504,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
