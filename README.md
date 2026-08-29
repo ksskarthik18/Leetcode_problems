@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0205-isomorphic-strings) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0542-01-matrix) |
@@ -535,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
