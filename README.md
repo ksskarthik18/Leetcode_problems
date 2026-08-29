@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1020-number-of-enclaves](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1051-height-checker) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1672-richest-customer-wealth](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1901-find-a-peak-element-ii) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 ## Design
 |  |
 | ------- |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 ## Queue
 |  |
 | ------- |
@@ -517,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ksskarthik18/Leetcode_problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ksskarthik18/Leetcode_problems/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
