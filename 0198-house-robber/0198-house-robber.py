@@ -1,31 +1,23 @@
 # Time: O(n)
-# Space: O(n) for DP + O(n) recursion stack.
+# Space: O(n) using tabulation
 class Solution(object):
     def rob(self, nums):
         """
         :type nums: List[int]
         :rtype: int
         """
+
         n = len(nums)
-        dp = [-1]*n
+        dp = [0]*n
+        dp[0] = nums[0]
 
-        def solve(i):
-            if i < 0:
-                return 0
-            if i == 0:
-                return nums[i]
-            
-            if dp[i]!= -1:
-                return dp[i]
-
-            pick = nums[i] + solve(i-2)
-            not_pick = solve(i-1)
+        if n > 1:
+            dp[1] = max(nums[0],nums[1])
+        
+        for i in range(2,n):
+            pick = nums[i] + dp[i-2]
+            not_pick = dp[i-1]
 
             dp[i] = max(pick,not_pick)
-
-            return dp[i]
         
-        return solve(n-1)
-
-    
-        
+        return dp[n-1]
