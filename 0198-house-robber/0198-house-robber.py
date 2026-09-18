@@ -1,5 +1,5 @@
 # Time: O(n)
-# Space: O(n) using tabulation
+# Space: O(1) using tabulation space optimized
 class Solution(object):
     def rob(self, nums):
         """
@@ -8,16 +8,14 @@ class Solution(object):
         """
 
         n = len(nums)
-        dp = [0]*n
-        dp[0] = nums[0]
+        if n == 1:
+            return nums[0]
+        prev2 = nums[0]
+        prev1 = max(nums[0],nums[1])
 
-        if n > 1:
-            dp[1] = max(nums[0],nums[1])
-        
         for i in range(2,n):
-            pick = nums[i] + dp[i-2]
-            not_pick = dp[i-1]
-
-            dp[i] = max(pick,not_pick)
+            curr = max(prev1,nums[i]+prev2)
+            prev2 = prev1
+            prev1 = curr
         
-        return dp[n-1]
+        return prev1
