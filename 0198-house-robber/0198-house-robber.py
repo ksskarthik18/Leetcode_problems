@@ -1,3 +1,5 @@
+# Time: O(n)
+# Space: O(n) for DP + O(n) recursion stack.
 class Solution(object):
     def rob(self, nums):
         """
